@@ -1,0 +1,3 @@
+dev push master 
+
+git push origin dev:master -f
